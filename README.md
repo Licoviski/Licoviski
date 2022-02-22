@@ -27,5 +27,5 @@
  <a href="https://discord.gg/BFWnZ5xUzG" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"</a> 
   <a href = "KauanyLicoviski02102001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/Licoviski_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-   <a href="https://deviantart.com/licoviski" target="_blank"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=whit" target="_blank">
+   <a href="https://deviantart.com/licoviski" target="_blank"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" target="_blank">
 </div>
