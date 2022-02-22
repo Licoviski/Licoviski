@@ -4,7 +4,7 @@
 
 ㅤㅤㅤㅤㅤㅤ- 📫 Estou fazendo faculdade de Tecnologia da informação e comunicação (T.I.C).
 
-<div align="center">
+<div align="">
   <a href="https://github.com/Licoviski">
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Licoviski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     
