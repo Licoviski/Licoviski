@@ -13,8 +13,6 @@
   ㅤㅤㅤㅤㅤㅤ
 <div style="display: inline_block"><br>
   <img align="center" alt="Lico-HTML" height="30" width="40" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  
-src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
   ##
