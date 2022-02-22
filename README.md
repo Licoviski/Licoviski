@@ -15,7 +15,7 @@
   <img align="center" alt="Lico-HTML" height="" width="" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Lico-PS" height="" width="" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
   <img align="center" alt="Lico-opera" height="" width="" src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white">
-   <img align="center" alt="Lico-Krita" height="" width="" src=" <img align="center" alt="Lico-" height="" width="" src="">">
+   <img align="center" alt="Lico-Krita" height="" width="" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B">
 </div>
   
   ##
