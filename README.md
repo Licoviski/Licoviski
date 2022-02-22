@@ -1,6 +1,5 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ- 👋 Olá! Eu sou @Licoviskiㅤㅤㅤㅤ- 👀 Estou interressada no ramo de front-end e Back-End
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ- 🌱 Estou atualmente a aprender HTML5 e CSS3
-
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ- 📫 Atualmente fazendo faculdade de Tecnologia da informação e comunicação (T.I.C)
 
 <div align="center">
