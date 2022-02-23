@@ -18,7 +18,7 @@
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
         <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-        <img alt="CLIP%20STUDIO%20PAINT" src="https://img.shields.io/badge/-CLIP%20STUDIO%20PAINT-white?labelColor=white&style=flat-square">
+        <img alt="CLIP%20STUDIO%20PAINT" src="https://img.shields.io/badge/-CLIP%20STUDIO%20PAINT-white?labelColor=white&style=for-the-badge&logo=Cliqz&logoColor=9e9e9e">
 </div>
   
   ##
