@@ -19,6 +19,7 @@
         <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         <img alt="CLIP%20STUDIO%20PAINT" src="https://img.shields.io/badge/-CLIP%20STUDIO%20PAINT-white?labelColor=white&style=for-the-badge&logo=Cliqz&logoColor=9e9e9e">
+        <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B">
 </div>
   
   ##
