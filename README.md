@@ -36,7 +36,7 @@
   
 <div style="" align="rigth"> 
 
-<img src="https://discordapp.com/api/guilds/859479341859471391/widget.png?style=banner1" alt="Discord Banner 3"  width="300" height="170"/>
+<img src="https://discordapp.com/api/guilds/859479341859471391/widget.png?style=banner1" alt="Discord Banner 3"  width="250" height="120"/>
 <img src="https://discord-readme-badge.vercel.app/api?id=884894014460035162" width="250"/>
 <img src="https://discord-readme-badge.vercel.app/api?id=937146613154066502" width="250"/>  
 
