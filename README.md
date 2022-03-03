@@ -33,3 +33,7 @@
   <a href="https://twitter.com/Licoviski_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
    <a href="https://deviantart.com/licoviski" target="_blank"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" target="_blank">
 </div>
+
+   
+<iframe src="https://ptb.discord.com/widget?id=859479341859471391&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>   
+   
