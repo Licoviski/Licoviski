@@ -35,5 +35,5 @@
 </div>
 
    
-<iframe src="https://ptb.discord.com/widget?id=859479341859471391&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>   
+https://ptb.discord.com/api/guilds/859479341859471391/widget.json  
    
