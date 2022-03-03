@@ -36,9 +36,9 @@
   
 <div style="" align="rigth"> 
 
-<img src="https://discordapp.com/api/guilds/859479341859471391/widget.png?style=banner1" alt="Discord Banner 3"  width="250" height="140"/>
-<img src="https://discord-readme-badge.vercel.app/api?id=884894014460035162" width="250"/>
-<img src="https://discord-readme-badge.vercel.app/api?id=937146613154066502" width="250"/>  
+<img src="https://discordapp.com/api/guilds/859479341859471391/widget.png?style=banner1" alt="Discord Banner 3"  width="250" height="130"/>
+<img src="https://discord-readme-badge.vercel.app/api?id=884894014460035162" width="260"/>
+<img src="https://discord-readme-badge.vercel.app/api?id=937146613154066502" width="260"/>  
 
 <div align="rigth">
   <a href="https://www.youtube.com/channel/UCZWpi-1Q14LkMjP14-Z7rZA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
