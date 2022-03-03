@@ -15,8 +15,9 @@
   <a href="https://github.com/Licoviski">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Licoviski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Licoviski&layout=compact&langs_count=7&theme=dracula"/>
-  
-  [![Discord Presence](https://lanyard.cnrad.dev/api/937146613154066502)](https://discord.com/users/937146613154066502)
+
+  ![My Discord](https://discord-readme-badge.vercel.app/api?id=884894014460035162)
+  ![My Discord](https://discord-readme-badge.vercel.app/api?id=937146613154066502)
     
   </a>
 </div>
