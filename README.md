@@ -17,6 +17,7 @@
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Licoviski&layout=compact&langs_count=7&theme=dracula"/>
 
   ![My Discord](https://discord-readme-badge.vercel.app/api?id=884894014460035162)
+    
   ![My Discord](https://discord-readme-badge.vercel.app/api?id=937146613154066502)
     
   </a>
