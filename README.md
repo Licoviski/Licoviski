@@ -32,7 +32,6 @@
   <a href = "KauanyLicoviski02102001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/Licoviski_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
    <a href="https://deviantart.com/licoviski" target="_blank"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" target="_blank">
-     
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Licoviski&data=followers,repositories,stars,commits)](https://github.com/Licoviski)    
+ 
   
    
