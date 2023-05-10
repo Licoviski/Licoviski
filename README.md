@@ -2,7 +2,7 @@
 
 - 🌱 Estou atualmente a aprender HTML5 e CSS3.
 
-- 📫 Estou fazendo faculdade de Tecnologia da informação e comunicação (T.I.C).
+- 📫 Estou fazendo faculdade de Análise e desenvolvimento de sistemas.
 
 
 <div align="rigth" style="display: inline:"> 
