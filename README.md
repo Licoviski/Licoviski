@@ -1,6 +1,6 @@
-- 👋 Olá! Eu sou @Licoviskiㅤㅤㅤㅤ- 👀 Estou interessada no ramo de front-end e Back-End.
+- 👋 Olá! Eu sou @Licoviskiㅤㅤㅤㅤ- 👀 Estou interessada no ramo de programação.
 
-- 🌱 Estou atualmente a aprender HTML5 e CSS3.
+- 🌱 Estou atualmente a aprender programação.
 
 - 📫 Estou fazendo faculdade de Análise e desenvolvimento de sistemas.
 
