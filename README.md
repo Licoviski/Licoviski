@@ -1,8 +1,8 @@
-- 👋 Olá! Eu sou @Licoviskiㅤㅤㅤㅤ- 👀 Estou interessada no ramo de programação.
+- 👋 Olá! Eu sou @Licoviskiㅤㅤㅤㅤ- 👀 Sou apenas interessada no ramo de programação.
 
-- 🌱 Estou atualmente a aprender programação.
+- 🌱 Atualmente a aprender programação.
 
-- 📫 Estou fazendo faculdade de Análise e desenvolvimento de sistemas.
+- 📫 Faculdade de Análise e desenvolvimento de sistemas.
 
 
 <div align="rigth" style="display: inline:"> 
